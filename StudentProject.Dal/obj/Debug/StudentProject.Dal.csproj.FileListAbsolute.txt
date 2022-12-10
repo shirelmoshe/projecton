@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\obj\Debug\StudentProject.Dal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\obj\Debug\StudentProject.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\bin\Debug\StudentProject.Dal.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\bin\Debug\StudentProject.Dal.pdb
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\bin\Debug\StudentProject.Model.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\bin\Debug\StudentProject.Model.pdb
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\obj\Debug\StudentProject.Dal.csproj.CopyComplete
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\obj\Debug\StudentProject.Dal.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Dal\obj\Debug\StudentProject.Dal.pdb

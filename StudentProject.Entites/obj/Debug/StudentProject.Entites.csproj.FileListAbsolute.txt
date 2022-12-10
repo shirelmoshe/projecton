@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\obj\Debug\StudentProject.Entites.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\obj\Debug\StudentProject.Entites.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\bin\Debug\StudentProject.Entites.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\bin\Debug\StudentProject.Entites.pdb
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\bin\Debug\StudentProject.Dal.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\bin\Debug\StudentProject.Model.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\bin\Debug\StudentProject.Dal.pdb
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\bin\Debug\StudentProject.Model.pdb
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\obj\Debug\StudentProject.Entites.csproj.CopyComplete
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\obj\Debug\StudentProject.Entites.dll
+C:\Users\User\source\repos\StudentProject\StudentProject.Entites\obj\Debug\StudentProject.Entites.pdb
